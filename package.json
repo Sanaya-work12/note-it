@@ -1,0 +1,33 @@
+{
+  "name": "noteit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "shruti",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "lodash": "^4.17.11",
+    "mongodb": "^2.2.16"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^2.0.0",
+    "express": "^4.16.4",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "image-webpack-loader": "^4.6.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "keywords": [],
+  "description": ""
+}
